@@ -1,0 +1,25 @@
+Script started on 2017年03月28日 (週二) 21時15分41秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop/lab1 $[00m git clone https://github.com/sherisea/labb1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop/lab1 $[00m [C[C[C[C[Config -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pwhoami;pwdgit config -l[3Pwhoami;pwdgit config -l[3Pwhoami;pwd
+pd2vm
+/home/pd2vm/Desktop/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop/lab1 $[00m whoami;pwdgit clone https://github.com/sherisea/labb1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop/lab1 $[00m [C[C[C[C[Config -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+user.email=sherisea870125@gmail.com
+user.name=sherisea
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/sherisea/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop/lab1 $[00m git config -l[3Pwhoami;pwdgit clone https://github.com/sherisea/labb1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop/lab1 $[00m [C[C[C[C[Config -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone https://github.com/sherisea/labb1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop/lab1 $[00m exit
+
+Script done on 2017年03月28日 (週二) 21時16分01秒
