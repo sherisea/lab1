@@ -1,24 +1,13 @@
-Script started on 2017年03月28日 (週二) 14時27分23秒
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m cd ..Desktop..[Kgit remote add .[8Ppushcommit [2Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcd lab1Desktopgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[Config -l[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pwhoami; pwds[3Pgit add .whoami; pwds
+Script started on 2017年03月28日 (週二) 14時35分00秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git push lab1remote add lab1 git@github.com:sherisea/laab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 1 'git@github.com:sherisea/lab1.git'[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[Cpush[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd --all lab1push[Kcommit [2Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m cd Desktop [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[Config -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pwhoami; pwds[7Pcd ..whoami; pwds[K
 pd2vm
-No command 'pwds' found, did you mean:
- Command 'pwd' from package 'coreutils' (main)
- Command 'pods' from package 'pmtools' (universe)
- Command 'pwdx' from package 'procps' (main)
- Command 'pads' from package 'pads' (universe)
-pwds: command not found
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m whoami; pwds[7Pcd ..Desktop..[Kgit remote add .[8Ppushremote add .[8Ppushcommit [2Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcd lab1Desktopgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[Config -l[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-user.email=sherisea870125@gmail.com
-user.name=sherisea
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git config -l[1Pwhoami; pwds[7Pcd ..Desktop..[Kgit remote add .[8Ppushcommit [2Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcd lab1Desktopgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[Config -l[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone https://github.com/sherisea/lab1.gitt
+/home/pd2vm/Desktop
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m whoami; pwdgit push lab1remote add lab1 git@github.com:sherisea/laab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 1 'git@github.com:sherisea/lab1.git'[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[Cpush[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd --all lab1push[Kcommit [2Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m cd Desktop [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt
 fatal: destination path 'lab1' already exists and is not an empty directory.
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[Config -l[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pwhoami; pwds[7Pcd ..Desktop..[Kgit remote add .[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
-Script done on 2017年03月28日 (週二) 14時27分58秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m 
+Script done on 2017年03月28日 (週二) 14時35分29秒
