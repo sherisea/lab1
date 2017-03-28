@@ -1,18 +1,8 @@
-Script started on 2017年03月28日 (週二) 14時39分02秒
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git push lab1remote add lab1 https://github.com/sheriseea/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[Cpush [K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit[1Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m cd Desktop[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m whoami; pwd[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push lab1[2Pwhoami; pwd
+Script started on 2017年03月28日 (週二) 21時09分47秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m whoami;pwd
 pd2vm
 /home/pd2vm/Desktop
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m whoami; pwdgit push lab1remote add lab1 https://github.com/sheriseea/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[Cpush [K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit[1Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m cd Desktop[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m whoami; pwd[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push lab1remote add lab1 git@github.com:sherisea/laab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 1 'git@github.com:sherisea/lab1.git'[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[Cpush[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd --all lab1push[Kcommit [2Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m cd Desktop [K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[Config -l[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[C[Config -l[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git confih=[K[Kg -l
 user.email=sherisea870125@gmail.com
 user.name=sherisea
 core.repositoryformatversion=0
@@ -21,10 +11,10 @@ core.bare=false
 core.logallrefupdates=true
 remote.lab1.url=git@github.com:sherisea/lab1.git
 remote.lab1.fetch=+refs/heads/*:refs/remotes/lab1/*
-[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git config -l[2Pwhoami; pwdgit push lab1remote add lab1 https://github.com/sheriseea/lab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[Cpush [K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit[1Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m cd Desktop[K
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git config -l[3Pwhoami;pwdgit push lab1remote add lab1 git@github.com:sherisea/laab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m [C[C[C[Cpush[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add[4Pcommit[1Padd .mv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m cd Desktop[K
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m cd Desktop[K
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/sherisea/lab1.gitt
 fatal: destination path 'lab1' already exists and is not an empty directory.
 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m 
-Script done on 2017年03月28日 (週二) 14時39分34秒
+Script done on 2017年03月28日 (週二) 21時10分26秒
